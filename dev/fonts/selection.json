@@ -1100,7 +1100,7 @@
 				"order": 129,
 				"prevSize": 20,
 				"code": 293,
-				"name": "twitter3",
+				"name": "twitter",
 				"ligatures": ""
 			},
 			"setIdx": 1,
@@ -1982,7 +1982,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"replay"
+					"undo"
 				],
 				"defaultCode": 57381,
 				"grid": 24
@@ -1995,8 +1995,7 @@
 				"id": 37,
 				"prevSize": 24,
 				"code": 57381,
-				"name": "replay",
-				"ligatures": "replay"
+				"name": "undo"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -2102,7 +2101,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"call"
+					"phone-handset"
 				],
 				"defaultCode": 57407,
 				"grid": 24
@@ -2115,8 +2114,8 @@
 				"id": 63,
 				"prevSize": 24,
 				"code": 57407,
-				"name": "call",
-				"ligatures": "call"
+				"name": "phone-handset",
+				"ligatures": "phone-handset"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -2132,7 +2131,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"call_end"
+					"phone"
 				],
 				"defaultCode": 57408,
 				"grid": 24
@@ -2145,8 +2144,8 @@
 				"id": 64,
 				"prevSize": 24,
 				"code": 57408,
-				"name": "call_end",
-				"ligatures": "call_end"
+				"name": "phone",
+				"ligatures": "phone"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -2372,7 +2371,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"create"
+					"pencil"
 				],
 				"defaultCode": 57460,
 				"grid": 24
@@ -2385,8 +2384,8 @@
 				"id": 116,
 				"prevSize": 24,
 				"code": 57460,
-				"name": "create",
-				"ligatures": "create"
+				"name": "pencil",
+				"ligatures": "pencil"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -2432,7 +2431,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"access_time"
+					"clock"
 				],
 				"defaultCode": 57486,
 				"grid": 24
@@ -2445,8 +2444,7 @@
 				"id": 142,
 				"prevSize": 24,
 				"code": 57486,
-				"name": "access_time",
-				"ligatures": "access_time"
+				"name": "clock"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -2552,7 +2550,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"now_wallpaper"
+					"picture"
 				],
 				"defaultCode": 57516,
 				"grid": 24
@@ -2565,8 +2563,8 @@
 				"id": 172,
 				"prevSize": 24,
 				"code": 57516,
-				"name": "now_wallpaper",
-				"ligatures": "now_wallpaper"
+				"name": "picture",
+				"ligatures": "picture"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -2972,7 +2970,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"laptop_windows"
+					"laptop"
 				],
 				"defaultCode": 57628,
 				"grid": 24
@@ -2985,8 +2983,8 @@
 				"id": 284,
 				"prevSize": 24,
 				"code": 57628,
-				"name": "laptop_windows",
-				"ligatures": "laptop_windows"
+				"name": "laptop",
+				"ligatures": "laptop"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -3002,7 +3000,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"phone_android"
+					"smartphone"
 				],
 				"defaultCode": 57631,
 				"grid": 24
@@ -3015,8 +3013,8 @@
 				"id": 287,
 				"prevSize": 24,
 				"code": 57631,
-				"name": "phone_android",
-				"ligatures": "phone_android"
+				"name": "smartphone",
+				"ligatures": "smartphone"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -3062,7 +3060,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"tablet_android"
+					"tablet"
 				],
 				"defaultCode": 57643,
 				"grid": 24
@@ -3075,8 +3073,8 @@
 				"id": 299,
 				"prevSize": 24,
 				"code": 57643,
-				"name": "tablet_android",
-				"ligatures": "tablet_android"
+				"name": "tablet",
+				"ligatures": "tablet"
 			},
 			"setIdx": 1,
 			"setId": 1,
@@ -3332,7 +3330,7 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"place"
+					"map-marker"
 				],
 				"defaultCode": 57847,
 				"grid": 24
@@ -3345,8 +3343,8 @@
 				"id": 503,
 				"prevSize": 24,
 				"code": 57847,
-				"name": "place",
-				"ligatures": "place"
+				"name": "map-marker",
+				"ligatures": "map-marker"
 			},
 			"setIdx": 1,
 			"setId": 1,

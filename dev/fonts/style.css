@@ -143,7 +143,7 @@
 .icon-vimeo2:before {
 	content: "\124";
 }
-.icon-twitter3:before {
+.icon-twitter:before {
 	content: "\125";
 }
 .icon-twitter4:before {
@@ -236,7 +236,7 @@
 .icon-playlist_add:before {
 	content: "\e01e";
 }
-.icon-replay:before {
+.icon-undo:before {
 	content: "\e025";
 }
 .icon-skip_next:before {
@@ -248,10 +248,10 @@
 .icon-stop:before {
 	content: "\e02a";
 }
-.icon-call:before {
+.icon-phone-handset:before {
 	content: "\e03f";
 }
-.icon-call_end:before {
+.icon-phone:before {
 	content: "\e040";
 }
 .icon-chat:before {
@@ -275,13 +275,13 @@
 .icon-clear:before {
 	content: "\e070";
 }
-.icon-create:before {
+.icon-pencil:before {
 	content: "\e074";
 }
 .icon-remove:before {
 	content: "\e07f";
 }
-.icon-access_time:before {
+.icon-clock:before {
 	content: "\e08e";
 }
 .icon-devices:before {
@@ -293,7 +293,7 @@
 .icon-gps_not_fixed:before {
 	content: "\e0a4";
 }
-.icon-now_wallpaper:before {
+.icon-picture:before {
 	content: "\e0ac";
 }
 .icon-now_widgets:before {
@@ -335,16 +335,16 @@
 .icon-keyboard_arrow_up:before {
 	content: "\e112";
 }
-.icon-laptop_windows:before {
+.icon-laptop:before {
 	content: "\e11c";
 }
-.icon-phone_android:before {
+.icon-smartphone:before {
 	content: "\e11f";
 }
 .icon-phone_iphone:before {
 	content: "\e120";
 }
-.icon-tablet_android:before {
+.icon-tablet:before {
 	content: "\e12b";
 }
 .icon-tablet_mac:before {
@@ -371,7 +371,7 @@
 .icon-pin_drop:before {
 	content: "\e1f6";
 }
-.icon-place:before {
+.icon-nap-marker:before {
 	content: "\e1f7";
 }
 .icon-check:before {
